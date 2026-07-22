@@ -718,3 +718,166 @@ Hash Map
 Focus on understanding patterns first.
 
 Speed comes later.
+
+## 📌 Local Problem Index Mapping
+
+This table maps the local folder index used in this repository to the actual LeetCode problem number.
+
+Example:
+
+```text
+P045_HappyNumber <-> 202. Happy Number
+```
+
+| Local Index | LeetCode Problem |
+|---|---|
+| P001_MergeSortedArray | 88. Merge Sorted Array |
+| P002_RemoveElement | 27. Remove Element |
+| P003_RemoveDuplicatesFromSortedArray | 26. Remove Duplicates from Sorted Array |
+| P004_RemoveDuplicatesFromSortedArrayII | 80. Remove Duplicates from Sorted Array II |
+| P005_MajorityElement | 169. Majority Element |
+| P006_RotateArray | 189. Rotate Array |
+| P007_BestTimeToBuyAndSellStock | 121. Best Time to Buy and Sell Stock |
+| P008_BestTimeToBuyAndSellStockII | 122. Best Time to Buy and Sell Stock II |
+| P009_JumpGame | 55. Jump Game |
+| P010_JumpGameII | 45. Jump Game II |
+| P011_HIndex | 274. H-Index |
+| P012_InsertDeleteGetRandomO1 | 380. Insert Delete GetRandom O(1) |
+| P013_ProductOfArrayExceptSelf | 238. Product of Array Except Self |
+| P014_GasStation | 134. Gas Station |
+| P015_Candy | 135. Candy |
+| P016_TrappingRainWater | 42. Trapping Rain Water |
+| P017_RomanToInteger | 13. Roman to Integer |
+| P018_IntegerToRoman | 12. Integer to Roman |
+| P019_LengthOfLastWord | 58. Length of Last Word |
+| P020_LongestCommonPrefix | 14. Longest Common Prefix |
+| P021_ReverseWordsInAString | 151. Reverse Words in a String |
+| P022_ZigzagConversion | 6. Zigzag Conversion |
+| P023_FindTheIndexOfTheFirstOccurrenceInAString | 28. Find the Index of the First Occurrence in a String |
+| P024_TextJustification | 68. Text Justification |
+| P025_ValidPalindrome | 125. Valid Palindrome |
+| P026_IsSubsequence | 392. Is Subsequence |
+| P027_TwoSumIIInputArrayIsSorted | 167. Two Sum II - Input Array Is Sorted |
+| P028_ContainerWithMostWater | 11. Container With Most Water |
+| P029_3Sum | 15. 3Sum |
+| P030_MinimumSizeSubarraySum | 209. Minimum Size Subarray Sum |
+| P031_LongestSubstringWithoutRepeatingCharacters | 3. Longest Substring Without Repeating Characters |
+| P032_SubstringWithConcatenationOfAllWords | 30. Substring with Concatenation of All Words |
+| P033_MinimumWindowSubstring | 76. Minimum Window Substring |
+| P034_ValidSudoku | 36. Valid Sudoku |
+| P035_SpiralMatrix | 54. Spiral Matrix |
+| P036_RotateImage | 48. Rotate Image |
+| P037_SetMatrixZeroes | 73. Set Matrix Zeroes |
+| P038_GameOfLife | 289. Game of Life |
+| P039_RansomNote | 383. Ransom Note |
+| P040_IsomorphicStrings | 205. Isomorphic Strings |
+| P041_WordPattern | 290. Word Pattern |
+| P042_ValidAnagram | 242. Valid Anagram |
+| P043_GroupAnagrams | 49. Group Anagrams |
+| P044_TwoSum | 1. Two Sum |
+| P045_HappyNumber | 202. Happy Number |
+| P046_ContainsDuplicateII | 219. Contains Duplicate II |
+| P047_LongestConsecutiveSequence | 128. Longest Consecutive Sequence |
+| P048_SummaryRanges | 228. Summary Ranges |
+| P049_MergeIntervals | 56. Merge Intervals |
+| P050_InsertInterval | 57. Insert Interval |
+| P051_MinimumNumberOfArrowsToBurstBalloons | 452. Minimum Number of Arrows to Burst Balloons |
+| P052_ValidParentheses | 20. Valid Parentheses |
+| P053_SimplifyPath | 71. Simplify Path |
+| P054_MinStack | 155. Min Stack |
+| P055_EvaluateReversePolishNotation | 150. Evaluate Reverse Polish Notation |
+| P056_BasicCalculator | 224. Basic Calculator |
+| P057_LinkedListCycle | 141. Linked List Cycle |
+| P058_AddTwoNumbers | 2. Add Two Numbers |
+| P059_MergeTwoSortedLists | 21. Merge Two Sorted Lists |
+| P060_CopyListWithRandomPointer | 138. Copy List with Random Pointer |
+| P061_ReverseLinkedListII | 92. Reverse Linked List II |
+| P062_ReverseNodesInKGroup | 25. Reverse Nodes in k-Group |
+| P063_RemoveNthNodeFromEndOfList | 19. Remove Nth Node From End of List |
+| P064_RemoveDuplicatesFromSortedListII | 82. Remove Duplicates from Sorted List II |
+| P065_RotateList | 61. Rotate List |
+| P066_PartitionList | 86. Partition List |
+| P067_LRUCache | 146. LRU Cache |
+| P068_MaximumDepthOfBinaryTree | 104. Maximum Depth of Binary Tree |
+| P069_SameTree | 100. Same Tree |
+| P070_InvertBinaryTree | 226. Invert Binary Tree |
+| P071_SymmetricTree | 101. Symmetric Tree |
+| P072_ConstructBinaryTreeFromPreorderAndInorderTraversal | 105. Construct Binary Tree from Preorder and Inorder Traversal |
+| P073_ConstructBinaryTreeFromInorderAndPostorderTraversal | 106. Construct Binary Tree from Inorder and Postorder Traversal |
+| P074_PopulatingNextRightPointersInEachNodeII | 117. Populating Next Right Pointers in Each Node II |
+| P075_FlattenBinaryTreeToLinkedList | 114. Flatten Binary Tree to Linked List |
+| P076_PathSum | 112. Path Sum |
+| P077_SumRootToLeafNumbers | 129. Sum Root to Leaf Numbers |
+| P078_BinaryTreeMaximumPathSum | 124. Binary Tree Maximum Path Sum |
+| P079_BinarySearchTreeIterator | 173. Binary Search Tree Iterator |
+| P080_CountCompleteTreeNodes | 222. Count Complete Tree Nodes |
+| P081_LowestCommonAncestorOfABinaryTree | 236. Lowest Common Ancestor of a Binary Tree |
+| P082_BinaryTreeRightSideView | 199. Binary Tree Right Side View |
+| P083_AverageOfLevelsInBinaryTree | 637. Average of Levels in Binary Tree |
+| P084_BinaryTreeLevelOrderTraversal | 102. Binary Tree Level Order Traversal |
+| P085_BinaryTreeZigzagLevelOrderTraversal | 103. Binary Tree Zigzag Level Order Traversal |
+| P086_MinimumAbsoluteDifferenceInBST | 530. Minimum Absolute Difference in BST |
+| P087_KthSmallestElementInABST | 230. Kth Smallest Element in a BST |
+| P088_ValidateBinarySearchTree | 98. Validate Binary Search Tree |
+| P089_NumberOfIslands | 200. Number of Islands |
+| P090_SurroundedRegions | 130. Surrounded Regions |
+| P091_CloneGraph | 133. Clone Graph |
+| P092_EvaluateDivision | 399. Evaluate Division |
+| P093_CourseSchedule | 207. Course Schedule |
+| P094_CourseScheduleII | 210. Course Schedule II |
+| P095_SnakesAndLadders | 909. Snakes and Ladders |
+| P096_MinimumGeneticMutation | 433. Minimum Genetic Mutation |
+| P097_WordLadder | 127. Word Ladder |
+| P098_ImplementTriePrefixTree | 208. Implement Trie (Prefix Tree) |
+| P099_DesignAddAndSearchWordsDataStructure | 211. Design Add and Search Words Data Structure |
+| P100_WordSearchII | 212. Word Search II |
+| P101_LetterCombinationsOfAPhoneNumber | 17. Letter Combinations of a Phone Number |
+| P102_Combinations | 77. Combinations |
+| P103_Permutations | 46. Permutations |
+| P104_CombinationSum | 39. Combination Sum |
+| P105_NQueensII | 52. N-Queens II |
+| P106_GenerateParentheses | 22. Generate Parentheses |
+| P107_WordSearch | 79. Word Search |
+| P108_ConvertSortedArrayToBinarySearchTree | 108. Convert Sorted Array to Binary Search Tree |
+| P109_SortList | 148. Sort List |
+| P110_ConstructQuadTree | 427. Construct Quad Tree |
+| P111_MergeKSortedLists | 23. Merge k Sorted Lists |
+| P112_MaximumSubarray | 53. Maximum Subarray |
+| P113_MaximumSumCircularSubarray | 918. Maximum Sum Circular Subarray |
+| P114_SearchInsertPosition | 35. Search Insert Position |
+| P115_SearchA2DMatrix | 74. Search a 2D Matrix |
+| P116_FindPeakElement | 162. Find Peak Element |
+| P117_SearchInRotatedSortedArray | 33. Search in Rotated Sorted Array |
+| P118_FindFirstAndLastPositionOfElementInSortedArray | 34. Find First and Last Position of Element in Sorted Array |
+| P119_FindMinimumInRotatedSortedArray | 153. Find Minimum in Rotated Sorted Array |
+| P120_MedianOfTwoSortedArrays | 4. Median of Two Sorted Arrays |
+| P121_KthLargestElementInAnArray | 215. Kth Largest Element in an Array |
+| P122_IPO | 502. IPO |
+| P123_FindKPairsWithSmallestSums | 373. Find K Pairs with Smallest Sums |
+| P124_FindMedianFromDataStream | 295. Find Median from Data Stream |
+| P125_AddBinary | 67. Add Binary |
+| P126_ReverseBits | 190. Reverse Bits |
+| P127_NumberOf1Bits | 191. Number of 1 Bits |
+| P128_SingleNumber | 136. Single Number |
+| P129_SingleNumberII | 137. Single Number II |
+| P130_BitwiseANDOfNumbersRange | 201. Bitwise AND of Numbers Range |
+| P131_PalindromeNumber | 9. Palindrome Number |
+| P132_PlusOne | 66. Plus One |
+| P133_FactorialTrailingZeroes | 172. Factorial Trailing Zeroes |
+| P134_SqrtX | 69. Sqrt(x) |
+| P135_PowXN | 50. Pow(x, n) |
+| P136_MaxPointsOnALine | 149. Max Points on a Line |
+| P137_ClimbingStairs | 70. Climbing Stairs |
+| P138_HouseRobber | 198. House Robber |
+| P139_WordBreak | 139. Word Break |
+| P140_CoinChange | 322. Coin Change |
+| P141_LongestIncreasingSubsequence | 300. Longest Increasing Subsequence |
+| P142_Triangle | 120. Triangle |
+| P143_MinimumPathSum | 64. Minimum Path Sum |
+| P144_UniquePathsII | 63. Unique Paths II |
+| P145_LongestPalindromicSubstring | 5. Longest Palindromic Substring |
+| P146_InterleavingString | 97. Interleaving String |
+| P147_EditDistance | 72. Edit Distance |
+| P148_BestTimeToBuyAndSellStockIII | 123. Best Time to Buy and Sell Stock III |
+| P149_BestTimeToBuyAndSellStockIV | 188. Best Time to Buy and Sell Stock IV |
+| P150_MaximalSquare | 221. Maximal Square |
